@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1463488858 source:k:\pruebastatic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1463488858 .h"
+
+1463488500 k:\pruebastatic\arraylist.h
+
+1463505889 source:/home/mauro/Descargas/ARRAY_LIB/LINUX_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1463505431 /home/mauro/Descargas/ARRAY_LIB/LINUX_64/ArrayList.h
+
+1463505760 source:/home/mauro/Descargas/ARRAY_LIB/LINUX_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1463505789 /home/mauro/Descargas/ARRAY_LIB/LINUX_64/Employee.h
+
+1464384445 source:c:\users\profesor\desktop\example4_static_lib\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1463604778 c:\users\profesor\desktop\example4_static_lib\win_64\arraylist.h
+
+1464384298 c:\users\profesor\desktop\example4_static_lib\win_64\employee.h
+
+1464384349 source:c:\users\profesor\desktop\example4_static_lib\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1464384471 source:c:\users\profesor\desktop\example4_static_lib\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1511110818 source:d:\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1463604778 d:\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_64\arraylist.h
+
+1511110730 d:\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_64\employee.h
+
+1511111112 source:d:\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1511111038 source:d:\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1511111163 source:d:\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_64\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1511110657 d:\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_64\datamanager.h
+
+1511111187 source:d:\downloads\labo1_2do_parcial\windows_resuelto\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1463604778 d:\downloads\labo1_2do_parcial\windows_resuelto\arraylist.h
+
+1511110730 d:\downloads\labo1_2do_parcial\windows_resuelto\employee.h
+
+1511111218 d:\downloads\labo1_2do_parcial\windows_resuelto\datamanager.h
+
+1511110818 source:d:\downloads\labo1_2do_parcial\windows_resuelto\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1511111112 source:d:\downloads\labo1_2do_parcial\windows_resuelto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1511111038 source:d:\downloads\labo1_2do_parcial\windows_resuelto\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1511482751 source:d:\parcial\examen\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1511479086 d:\parcial\examen\arraylist.h
+
+1511477864 d:\parcial\examen\employee.h
+
+1511482135 source:d:\parcial\examen\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1511335796 d:\parcial\examen\datamanager.h
+
+1511483484 source:d:\parcial\examen\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1511483484 source:d:\parcial\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1511483357 source:d:\parcial\examen\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"Validaciones.h"
+
+1511483339 source:d:\parcial\examen\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1511464239 d:\parcial\examen\validaciones.h
+
